@@ -1,5 +1,5 @@
 # FAB-ACADEMY-2
-<h6> welcome to our group documentation of fabacademy micro challenge 2 ;) </h6>
+Welcome to our group documentation of fabacademy micro challenge 2 ;)
 
 <h3> Markdown Layout: </h3>
 <h4> (https://www.markdownguide.org/basic-syntax/#images-1) </h4>
@@ -28,7 +28,7 @@ Sketches, Description and Delegation of Work
 <h3> Materials and Tools Used: </h3>
 <p> Materials: </p>
 <li> Cardboard </li>
-<li> Wood </li>
+<li> Wood </li> <br>
 
 <p> Softwares: </p>
 <li> Ableton Live </li>
