@@ -14,10 +14,8 @@ Angel, Aparna, Jose
 .
 
 <h3> Brainstorming:</h3>
-Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
-.
-.
-.
+Description and Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
+
 
 <h3> References </h3>
 .
@@ -35,30 +33,30 @@ Sketches, Description and Delegation of Work
 <p> Softwares: </p>
 <li> Ableton Live </li>
 
-<h4> Iteration Process: </h4>
+<h3> Iteration Process: </h3>
 <li> Prototype1 </li>
 <li> Prototype2 </li>
 
-<h4> Step by Step Fabrication </h4>
+<h3> Step by Step Fabrication </h3>
 .
 .
 .
 
-<h4> Reflection </h4>
+<h3> Reflection </h3>
 .
 .
 .
 
-<h4> Future Developments </h4>
+<h3> Future Developments </h3>
 .
 .
 .
 
-<h4> What you will find in this repo </h4>
+<h3> What you will find in this repo </h3>
 <li> First </li>
 <li> Second </li>
 
-<h4> Links to our personal posts </h4>
+<h3> Links to our personal posts </h3>
 <li> Angel: (https://miro.com/app/board/uXjVOErRQPQ=/) </li>
 <li> Aparna: (https://miro.com/app/board/uXjVOErRQPQ=/)</li>
 <li> Jose: (https://miro.com/app/board/uXjVOErRQPQ=/) </li>
