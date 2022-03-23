@@ -14,7 +14,7 @@ Angel, Aparna, Jose
 .
 
 <h3> Brainstorming:</h3>
-<h6> Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/) </h6>
+Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 .
 .
 .
@@ -26,16 +26,13 @@ Angel, Aparna, Jose
 
 <h3>Plan and Execution of the Project: </h3>
 Sketches, Description and Delegation of Work
-.
-.
-.
 
 <h3> Materials and Tools Used: </h3>
-<p> Materials </p>
+<p> Materials: </p>
 <li> Cardboard </li>
 <li> Wood </li>
 
-<p> Softwares </p>
+<p> Softwares: </p>
 <li> Ableton Live </li>
 
 <h4> Iteration Process: </h4>
