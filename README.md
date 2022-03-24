@@ -62,13 +62,32 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Collage of all objects received </li>
 
 <h3> Step by Step Fabrication </h3>
-<p>1)As we were clear on cutting the plywood for the base. We sketched it on Rhino and used Rhino Cam plugin to convert it into the code.
+<h5> CNC Mill Process </h5>
+<p>1) As we were clear on cutting the plywood for the base. We sketched it on Rhino and used Rhino Cam plugin to convert it into the code.
 </p>
-<p>2)To fit the 2 sets of elevated planks, we made the structure into dog-bone shaped-joinery. We left an edge of 0.2 mm for the material that gets cut during the mill process
+<p>2) To fit the 2 sets of elevated planks, we made the structure into dog-bone shaped-joinery. We left an edge of 0.2 mm for the material that gets cut during the mill process
 </p>
-<p>3)During the process we also learnt that the depth the CNC can cut in is in proportion the diameter of the mill. (for example the diameter was 6mm, so the maximum depth the wood would be cut in one go will be approx 3mm)
+<p>3) During the process we also learnt that the depth the CNC can cut in is in proportion the diameter of the mill. (for example the diameter was 6mm, so the maximum depth the wood would be cut in one go will be approx 3mm)
 </p>
-<p>3)During the process we also learnt that the depth the CNC can cut in is in proportion the diameter of the mill. (for example the diameter was 6mm, so the maximum depth the wood would be cut in one go will be approx 3mm)
+<p>4) While preparing the file for g-code, we made it into two layers. One for screws and then the other layer had pocketing and cut together in the required order
+</p>
+<p>5) Feed and Speed parameters: RPM: 21000, Feed Rate: 3800
+</p>
+<p>6) The pocketing moves from inside wheres profiling (cutting) works from the outside.
+</p>
+<p>7) We exported the file in Post processor output format.
+</p>
+
+<h5> Vinyl Cutting, Soldering and Heat Shrink </h5>
+<p>1) To make sure the object "talks" when someone touches it means that circuit needs to be closed at this point of time till the contact is maintained.
+</p>
+<p>2) To do so, we used copper sheet as it is a conductive material (circle shaped) and attached it to the objects. When the ground (negative) and input pin connection (positive) are touched together the circuit is closed. If not, my default it's open.
+</p>
+<p>3) We cut 10 mm diameter circles for the small objects and 20mm diamter for the bigger ones with vinyl cutter via the Silhoutte Software.
+</p>
+<p>4) After cutting the circles, we soldered the wiring endings (total 18 in numbe r- 9 ground pins and 9 input pins) with the soldering wire to make sure the connections remain intact
+</p>
+<p>5) To make sure the wires stay in place and don't look too messy, we heat shrunk plastic tubes onto each pair.
 </p>
 
 <p align="center">
