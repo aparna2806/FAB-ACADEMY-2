@@ -62,7 +62,11 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Collage of all objects received </li>
 
 <h3> Step by Step Fabrication </h3>
-<li>
+<p float="left">
+  <img src="images/prototype1.HEIC" width="100" />
+  <img src="FAB-ACADEMY-2/images/venn-diagram.png" width="100" />
+  <img src="FAB-ACADEMY-2/images/rhinocam.HEIC width="100" />
+</p>
 
 <h3> Reflection </h3>
 .
