@@ -8,7 +8,7 @@ Welcome to our group documentation of fabacademy micro challenge 2 ;)
 Angel, Aparna, Jose
 
 <h3> Project Description: </h3>
-“Dead Ideas/Things” <br>
+<h5> “Dead Ideas/Things” </h5>
 During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
 
 We want to open up the “black box” of our design processes, and gather these moments which we consider failures and mistakes. By collecting the “dead” artifacts, the ones that did not make it alive, from individual processes, we hope to explore the connections between these objects and generate new narratives. Through these new narratives, we aim to open up an alternative understanding of failure within the design process and expose the power of the collective.
@@ -21,11 +21,11 @@ In a way, we want to think about what can emerge from the connections of our col
 
 <h3> Brainstorming:</h3>
 Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
-We used the Venn Diagram format to fill out our personal interests and then added our intersecting interests between the group. It was interesting to see how the other team members describe the common theme in relation to their personal interests. The recurring theme within the group were collective biographies, new narratives and culture.
+<p>We used the Venn Diagram format to fill out our personal interests and then added our intersecting interests between the group. It was interesting to see how the other team members describe the common theme in relation to their personal interests. The recurring theme within the group were collective biographies, new narratives and culture.</p>
 
-It was a bit challenging at think of concepts which could be made tangible with the abstract keywords we chose to work with. We had to find a middle ground between defamiliarising the object but the stories relatable for everyone too.
+<p>It was a bit challenging at think of concepts which could be made tangible with the abstract keywords we chose to work with. We had to find a middle ground between defamiliarising the object but the stories relatable for everyone too.</p>
 
-To start off with, we asked our classmates to get one object that is (or was) significant for their design process, it could be whatever: a tool, a drawing, a prototype, a failure or anything else.  
+<p>To start off with, we asked our classmates to get one object that is (or was) significant for their design process, it could be whatever: a tool, a drawing, a prototype, a failure or anything else.</p>
 
 <h3> References </h3>
 <li> Everything We Touch book by Paula Zuccotti </li>
@@ -46,14 +46,14 @@ To start off with, we asked our classmates to get one object that is (or was) si
 <p> Materials: </p>
 <li> Cardboard (diameter 90 cm)</li>
 <li> Wood (diameter 90 cm) </li>
-<li> Vinyl Cut Circles (diameter 1 cm) </li>
+<li> Vinyl Cut Circles (diameter 1 cm) </li> <br>
 
 <p> Electronics: </p>
-<li> Makey Makey </li>
+<li> Makey Makey </li> <br>
 
 <p> Softwares: </p>
 <li> Ableton Live </li>
-<li> Rhino 7 </li>
+<li> Rhino 7 </li> <br>
 
 <h3> Iteration Process: </h3>
 <li> Images of Cardboard Prototype </li>
