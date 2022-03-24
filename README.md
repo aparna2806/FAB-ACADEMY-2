@@ -63,14 +63,14 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 
 <h3> Step by Step Fabrication </h3>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/web.png" width="375"/>
+<img title="miro" alt="brainstorm" src="/images/web.png" width="350"/>
 </p>
 
 <h3> Reflection </h3>
 
 <p float="left">
   <img src="/images/web.png" width="250" />
-  <img src="/images/web.png" width="250" />
+  <img src="/images/proto1.png" width="250" />
   <img src="/images/web.png" width="250" />
 </p>
 .
