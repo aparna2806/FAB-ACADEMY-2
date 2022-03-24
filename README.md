@@ -63,7 +63,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 
 <h3> Step by Step Fabrication </h3>
   <img src="FAB-ACADEMY-2/images/prototype1.png" width="100"/>
-  <img src="FAB-ACADEMY-2/images/web.png"/>
+  <img src="FAB-ACADEMY-2/images/web.png">
   <img src="FAB-ACADEMY-2/images/prototype2.png width="100" />
 </p>
 
