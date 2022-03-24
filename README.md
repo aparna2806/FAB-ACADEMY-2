@@ -9,7 +9,7 @@ Angel, Aparna, Jose
 
 <h3> Project:Biography of Dead Objects </h3>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="350"/>
+<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="550"/>
 </p>
 
 <p>During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
@@ -91,9 +91,12 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li>We exported the file in Post processor output format.
 </li>
 <li>After the cnc cut was done, with the help of hammer and nail we removed the bridges we attached for the small pieces (elevator planks) in order to prevent them for flying while getting cut.
+<p float="center">
 <img src="/images/cnc1.png" width="250" />
-<li>Before setting up, we took different grains of sandpaper to take off the splinters.</li>
 <img src="/images/cnc3.png" width="250" />
+</p>
+<li>Before setting up, we took different grains of sandpaper to take off the splinters.</li>
+
 <h4> Vinyl Cutting, Soldering and Heat Shrink </h4>
 <li>To make sure the object "talks" when someone touches it means that circuit needs to be closed at this point of time till the contact is maintained.
 <li>To do so, we used copper sheet as it is a conductive material (circle shaped) and attached it to the objects. When the ground (negative) and input pin connection (positive) are touched together the circuit is closed. If not, my default it's open.
@@ -112,7 +115,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 </p>
 
 <h3> Reflection </h3>
-. 
+.
 .
 .
 <h3> Future Developments </h3>
