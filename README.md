@@ -62,7 +62,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Collage of all objects received </li>
 
 <h3> Step by Step Fabrication </h3>
-<h5> CNC Mill Process </h5>
+<h4> CNC Mill Process </h4>
 <li> As we were clear on cutting the plywood for the base. We sketched it on Rhino and used Rhino Cam plugin to convert it into the code.
 </li>
 <li>To fit the 2 sets of elevated planks, we made the structure into dog-bone shaped-joinery. We left an edge of 0.2 mm for the material that gets cut during the mill process
@@ -78,13 +78,12 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li>We exported the file in Post processor output format.
 </li>
 
-<h5> Vinyl Cutting, Soldering and Heat Shrink </h5>
+<h4> Vinyl Cutting, Soldering and Heat Shrink </h4>
 <li>To make sure the object "talks" when someone touches it means that circuit needs to be closed at this point of time till the contact is maintained.
 <li>To do so, we used copper sheet as it is a conductive material (circle shaped) and attached it to the objects. When the ground (negative) and input pin connection (positive) are touched together the circuit is closed. If not, my default it's open.
 </li>
-<p>We cut 10 mm diameter circles for the small objects and 20mm diamter for the bigger ones with vinyl cutter via the Silhoutte Software.
-</p>
-<li>After cutting the circles, we soldered the wiring endings (total 18 in numbe r- 9 ground pins and 9 input pins) with the soldering wire to make sure the connections remain intact
+<li>We cut 10 mm diameter circles for the small objects and 20mm diameter for the bigger ones with vinyl cutter via the Silhoutte Software.
+<li>After cutting the circles, we soldered the wiring endings (total 18 in number- 9 ground pins and 9 input pins) with the soldering wire to make sure the connections remain intact
 <li> To make sure the wires stay in place and don't look too messy, we heat shrunk plastic tubes onto each pair.
 
 <p align="center">
@@ -96,8 +95,9 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <p float="left">
   <img src="/images/web.png" width="250" />
   <img src="/images/proto1.png" width="250" />
-  <img src="/images/web.png" width="250" />
+  <img src="/images/prototype1.png" width="250" />
 </p>
+.
 .
 .
 
@@ -107,7 +107,9 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 .
 
 <h3> What you will find in this repo </h3>
+<li> Guide to making g-code file on Rhino Cam </li>
 <li> CNC files of the base </li>
+<li> Guide to Vinyl Cut and Solder
 <li> Electronic Documentation of using Makey Makey </li>
 
 <h3> Links to our personal posts </h3>
