@@ -64,23 +64,14 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Conductive Dots made by Vinyl Cutter </li>
 <li> Makey Makey Prototype attached with wires </li>
 <li> Collage of all objects received </li>
-<p align="center">
-<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="350"/>
-</p>
 
 <h3> Step by Step Fabrication </h3>
 <h4> CNC Mill Process </h4>
-<p align="center">
-<img title="miro" alt="brainstorm" src="/images/rhinocam.png" width="350"/>
-</p>
-
-
 <p float="left">
-  <img src="/images/cnc1.png" width="250" />
+  <img src="/images/rhinocam.png" width="250" />
   <img src="/images/cnc2.png" width="250" />
   <img src="/images/cnc5.png" width="250" />
 </p>
-.
 <li> As we were clear on cutting the plywood for the base. We sketched it on Rhino and used Rhino Cam plugin to convert it into the code.
 </li>
 <p align="center">
@@ -99,40 +90,31 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 </li>
 <li>We exported the file in Post processor output format.
 </li>
-
+<li>After the cnc cut was done, with the help of hammer and nail we removed the bridges we attached for the small pieces (elevator planks) in order to prevent them for flying while getting cut.
+<img src="/images/cnc1.png" width="250" />
+<li>Before setting up, we took different grains of sandpaper to take off the splinters.</li>
+<img src="/images/cnc3.png" width="250" />
 <h4> Vinyl Cutting, Soldering and Heat Shrink </h4>
-<p float="left">
-  <img src="/images/vinyl cut.PNG" width="250" />
-  <img src="/images/solder.png" width="250" />
-</p>
 <li>To make sure the object "talks" when someone touches it means that circuit needs to be closed at this point of time till the contact is maintained.
 <li>To do so, we used copper sheet as it is a conductive material (circle shaped) and attached it to the objects. When the ground (negative) and input pin connection (positive) are touched together the circuit is closed. If not, my default it's open.
 </li>
 <li>We cut 10 mm diameter circles for the small objects and 20mm diameter for the bigger ones with vinyl cutter via the Silhoutte Software.
+<p float="left">
+  <img src="/images/vinylcut.png" width="250" />
+  <img src="/images/solder.png" width="250" />
+</p>
 <li>After cutting the circles, we soldered the wiring endings (total 18 in number- 9 ground pins and 9 input pins) with the soldering wire to make sure the connections remain intact
 <li> To make sure the wires stay in place and don't look too messy, we heat shrunk plastic tubes onto each pair.
 
-<p float="left">
-  <img src="/images/cnc3.png" width="250" />
-  <img src="/images/cnc6.png" width="250" />
-</p>
-
 <h4> Setting Up </h4>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/arrangement.JPG" width="350"/>
+<img title="miro" alt="brainstorm" src="/images/arrangement.png" width="350"/>
 </p>
 
 <h3> Reflection </h3>
-
-<p float="left">
-  <img src="/images/web.png" width="250" />
-  <img src="/images/proto1.png" width="250" />
-  <img src="/images/prototype1.png" width="250" />
-</p>
+. 
 .
 .
-.
-
 <h3> Future Developments </h3>
 .
 .
