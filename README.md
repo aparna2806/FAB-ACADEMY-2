@@ -9,7 +9,7 @@ Angel, Aparna, Jose
 
 <h3> Project Description: Biography of Dead Objects </h3>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="590"/>
+<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="560"/>
 </p>
 
 <p>During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
