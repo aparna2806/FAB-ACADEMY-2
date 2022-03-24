@@ -62,8 +62,8 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Collage of all objects received </li>
 
 <h3> Step by Step Fabrication </h3>
-<img title="a title" alt="Alt text" src="/images/ok.png">
-<img title="a title" alt="Alt text" src="/FAB-ACADEMY-2/images/ok.png">
+<img title="a title" alt="Alt text" src="/images/ok.png" width="200"/>
+<img title="a title" alt="Alt text" src="/FAB-ACADEMY-2/images/ok.png" width="200"/>
 <h3> Reflection </h3>
 .
 .
