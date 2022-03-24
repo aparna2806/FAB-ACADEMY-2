@@ -62,13 +62,9 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Collage of all objects received </li>
 
 <h3> Step by Step Fabrication </h3>
-  <img src="FAB-ACADEMY-2/images/prototype1.png" width="100"/>
-  <img src="FAB-ACADEMY-2/images/web.png">
-  ![maybe]("FAB-ACADEMY-2/images/check.png")
-  !("images/check.png")
-  ! ("images/check.png")
-  <img src="FAB-ACADEMY-2/images/prototype2.png width="100" />
-  
+![The San Juan Mountains are beautiful!](/images/check.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](images/check.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](FAB-ACADEMY-2/images/check.png "San Juan Mountains")
 <h3> Reflection </h3>
 .
 .
