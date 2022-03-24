@@ -8,6 +8,10 @@ Welcome to our group documentation of fabacademy micro challenge 2 ;)
 Angel, Aparna, Jose
 
 <h3> Project:Biography of Dead Objects </h3>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="350"/>
+</p>
+
 <p>During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
 
 We want to open up the “black box” of our design processes, and gather these moments which we consider failures and mistakes. By collecting the “dead” artifacts, the ones that did not make it alive, from individual processes, we hope to explore the connections between these objects and generate new narratives. Through these new narratives, we aim to open up an alternative understanding of failure within the design process and expose the power of the collective.
@@ -60,11 +64,29 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Conductive Dots made by Vinyl Cutter </li>
 <li> Makey Makey Prototype attached with wires </li>
 <li> Collage of all objects received </li>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="350"/>
+</p>
 
 <h3> Step by Step Fabrication </h3>
 <h4> CNC Mill Process </h4>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/rhinocam.png" width="350"/>
+</p>
+
+
+<p float="left">
+  <img src="/images/cnc1.png" width="250" />
+  <img src="/images/cnc2.png" width="250" />
+  <img src="/images/cnc5.png" width="250" />
+</p>
+.
 <li> As we were clear on cutting the plywood for the base. We sketched it on Rhino and used Rhino Cam plugin to convert it into the code.
 </li>
+<p align="center">
+  <img src="/images/cnc4.png" width="350" />
+</p>
+
 <li>To fit the 2 sets of elevated planks, we made the structure into dog-bone shaped-joinery. We left an edge of 0.2 mm for the material that gets cut during the mill process
 </li>
 <li>During the process we also learnt that the depth the CNC can cut in is in proportion the diameter of the mill. (for example the diameter was 6mm, so the maximum depth the wood would be cut in one go will be approx 3mm)
@@ -79,6 +101,10 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 </li>
 
 <h4> Vinyl Cutting, Soldering and Heat Shrink </h4>
+<p float="left">
+  <img src="/images/vinyl cut.PNG" width="250" />
+  <img src="/images/solder.png" width="250" />
+</p>
 <li>To make sure the object "talks" when someone touches it means that circuit needs to be closed at this point of time till the contact is maintained.
 <li>To do so, we used copper sheet as it is a conductive material (circle shaped) and attached it to the objects. When the ground (negative) and input pin connection (positive) are touched together the circuit is closed. If not, my default it's open.
 </li>
@@ -86,8 +112,14 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li>After cutting the circles, we soldered the wiring endings (total 18 in number- 9 ground pins and 9 input pins) with the soldering wire to make sure the connections remain intact
 <li> To make sure the wires stay in place and don't look too messy, we heat shrunk plastic tubes onto each pair.
 
+<p float="left">
+  <img src="/images/cnc3.png" width="250" />
+  <img src="/images/cnc6.png" width="250" />
+</p>
+
+<h4> Setting Up </h4>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/web.png" width="350"/>
+<img title="miro" alt="brainstorm" src="/images/arrangement.JPG" width="350"/>
 </p>
 
 <h3> Reflection </h3>
