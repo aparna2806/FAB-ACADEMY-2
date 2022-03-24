@@ -62,10 +62,14 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Collage of all objects received </li>
 
 <h3> Step by Step Fabrication </h3>
-<img title="a title" alt="Alt text" src="/images/web.png" width="500"/>
-
+<img title="miro alt="brainstorm" src="/images/web.png" width="350"/>
+<img title="miro alt="brainstorm" src="/images/web.png" width="350"/>
 <h3> Reflection </h3>
-.
+
+<p float="left">
+  <img src="/images/web.png" width="250" />
+  <img src="/images/web.png" width="250" />
+</p>
 .
 .
 
