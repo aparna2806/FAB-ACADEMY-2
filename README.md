@@ -63,9 +63,9 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 
 <h3> Step by Step Fabrication </h3>
 <p float="left">
-  <img src="images/prototype1.HEIC" width="100" />
-  <img src="FAB-ACADEMY-2/images/venn-diagram.png" width="100" />
-  <img src="FAB-ACADEMY-2/images/rhinocam.HEIC width="100" />
+  <img src="images/prototype1.png" width="100" />
+  <img src="FAB-ACADEMY-2/images/web.png" width="100" />
+  <img src="FAB-ACADEMY-2/images/prototype2.png width="100" />
 </p>
 
 ![alt-text-1](images/prototype1.HEIC "title-1") ![alt-text-2](FAB-ACADEMY-2/images/venn-diagram.png"title-2")
