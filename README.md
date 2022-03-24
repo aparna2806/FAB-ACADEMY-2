@@ -7,9 +7,9 @@ Welcome to our group documentation of fabacademy micro challenge 2 ;)
 <h3> Group Members:</h3>
 Angel, Aparna, Jose
 
-<h3> Project:Biography of Dead Objects </h3>
+<h3> Project Description: Biography of Dead Objects </h3>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="550"/>
+<img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="590"/>
 </p>
 
 <p>During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
@@ -68,8 +68,8 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <h3> Step by Step Fabrication </h3>
 <h4> CNC Mill Process </h4>
 <p float="left">
-  <img src="/images/rhinocam.png" width="250" />
   <img src="/images/cnc2.png" width="250" />
+  <img src="/images/rhinocam.png" width="250" />
   <img src="/images/cnc5.png" width="250" />
 </p>
 <li> As we were clear on cutting the plywood for the base. We sketched it on Rhino and used Rhino Cam plugin to convert it into the code.
@@ -91,7 +91,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li>We exported the file in Post processor output format.
 </li>
 <li>After the cnc cut was done, with the help of hammer and nail we removed the bridges we attached for the small pieces (elevator planks) in order to prevent them for flying while getting cut.
-<p float="center">
+<p align="center">
 <img src="/images/cnc1.png" width="250" />
 <img src="/images/cnc3.png" width="250" />
 </p>
@@ -102,7 +102,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li>To do so, we used copper sheet as it is a conductive material (circle shaped) and attached it to the objects. When the ground (negative) and input pin connection (positive) are touched together the circuit is closed. If not, my default it's open.
 </li>
 <li>We cut 10 mm diameter circles for the small objects and 20mm diameter for the bigger ones with vinyl cutter via the Silhoutte Software.
-<p float="left">
+<p align="center">
   <img src="/images/vinylcut.png" width="250" />
   <img src="/images/solder.png" width="250" />
 </p>
