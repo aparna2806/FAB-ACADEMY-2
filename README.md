@@ -68,6 +68,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
   <img src="FAB-ACADEMY-2/images/rhinocam.HEIC width="100" />
 </p>
 
+![alt-text-1](images/prototype1.HEIC "title-1") ![alt-text-2](FAB-ACADEMY-2/images/venn-diagram.png"title-2")
 <h3> Reflection </h3>
 .
 .
