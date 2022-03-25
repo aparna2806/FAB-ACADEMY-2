@@ -115,16 +115,15 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/arrangement.png" width="350"/>
 </p>
-  
+
 <h4>Wiring</h4>
- 
-  
+<li> Our next step in the process was to connect the black and white wires that were extended from the object to connect it to the Makey Makey which was behind the board.
+<li> Wiring multiple objects with their recording and pin was honestly a task to avoid tangling of wires. We stripped the wires off to roll all the ground wires together and then clipped it.<br>
 <h4>Connecting the Objects</h4>
-  
 
 <h4>Testing</h4>
-  
-  
+
+
 
 <h3> Reflection </h3>
 We gathered our learnings from the first Micro Challenge and planned to start making early and not overthinking from the beginining. We quickly agreed on foundational decisions about the project and start making from the second day.
@@ -132,15 +131,15 @@ We gathered our learnings from the first Micro Challenge and planned to start ma
 Each team member agreed on managing a specific part of the process, for acoountability and clarity. These responsibilites shifted as we worked and we all helped eachother, but it was important to know one person would hold responsibility at the end. At the end of the working day, we wrote down the summary of the tasks done during the day and our to-do lists for the following day.
 
 We wanted to create a meaningful product and experience with technology as a medium, and not use technology for the sake of using it. For this reason, we decided to stick with using Makey Makey, and figure out the other components from there. We managed to distill the design and making process down to its foundation (what was meaningful) and manage our time efficiently.
- 
-  
+
+
 <h3> Future Developments </h3>
-<p>In the future, we would like to go deeper into making the electronic components from scratch. We used makey makey due to time and complexity. After inital consultations with the tutors, we realized that if we built the electronics from scratch, we wouldn't be able to make the piece in time. An additional feature we wanted to add was LED lights which lit up when an object was touched. 
+<p>In the future, we would like to go deeper into making the electronic components from scratch. We used makey makey due to time and complexity. After inital consultations with the tutors, we realized that if we built the electronics from scratch, we wouldn't be able to make the piece in time. An additional feature we wanted to add was LED lights which lit up when an object was touched.
 
 We would like to elevate the form of the "object table", and design a surface and legs that would hold the objects and the electronics in place. Also we didn't account for all the cables and wires that would need to live on the bottom of the table. In the future version, we would design a pocketed surface or attachment that would organize and house the cables on the bottom side.
-  
-We thought the same platforms can expand and be integrated with different communities in the future. The device can help communities understand the processes of individuals and reveal new narratives and futures for them.</p> 
-  
+
+We thought the same platforms can expand and be integrated with different communities in the future. The device can help communities understand the processes of individuals and reveal new narratives and futures for them.</p>
+
 
 <h3> What you will find in this repo </h3>
 <li> Guide to making g-code file on Rhino Cam </li>
