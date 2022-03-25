@@ -89,7 +89,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li>During the process we also learnt that the depth the CNC can cut in is in proportion the diameter of the mill. (for example the diameter was 6mm, so the maximum depth the wood would be cut in one go will be approx 3mm)
 </li>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/rhino.jpg" width="350"/>
+<img title="miro" alt="brainstorm" src="/images/rhino.jpg" width="450"/>
 </p>
 
 <li>While preparing the file for g-code, we made it into two layers. One for screws and then the other layer had pocketing and cut together in the required order
