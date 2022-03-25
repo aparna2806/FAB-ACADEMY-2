@@ -12,10 +12,6 @@ Angel, Aparna, Jose
 <img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="560"/>
 </p>
 
-<p align="center">
-<img title="miro" alt="brainstorm" src="/images/miro.jpg" width="560"/>
-</p>
-
 <p>During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
 
 We want to open up the “black box” of our design processes, and gather these moments which we consider failures and mistakes. By collecting the “dead” artifacts, the ones that did not make it alive, from individual processes, we hope to explore the connections between these objects and generate new narratives. Through these new narratives, we aim to open up an alternative understanding of failure within the design process and expose the power of the collective.
@@ -29,6 +25,9 @@ In a way, we want to think about what can emerge from the connections of our col
 
 <h3> Brainstorming:</h3>
 Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/miro.jpg" width="560"/>
+</p>
 <p>We used the Venn Diagram format to fill out our personal interests and then added our intersecting interests between the group. It was interesting to see how the other team members describe the common theme in relation to their personal interests. The recurring theme within the group were collective biographies, new narratives and culture.</p>
 
 <p>It was a bit challenging at think of concepts which could be made tangible with the abstract keywords we chose to work with. We had to find a middle ground between defamiliarising the object but the stories relatable for everyone too.</p>
