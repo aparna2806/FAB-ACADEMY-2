@@ -115,6 +115,16 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/arrangement.png" width="350"/>
 </p>
+  
+<h4>Wiring</h4>
+ 
+  
+<h4>Connecting the Objects</h4>
+  
+
+<h4>Testing</h4>
+  
+  
 
 <h3> Reflection </h3>
 We gathered our learnings from the first Micro Challenge and planned to start making early and not overthinking from the beginining. We quickly agreed on foundational decisions about the project and start making from the second day.
