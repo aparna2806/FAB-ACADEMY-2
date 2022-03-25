@@ -12,6 +12,10 @@ Angel, Aparna, Jose
 <img title="miro" alt="brainstorm" src="/images/collage_objects.JPG" width="560"/>
 </p>
 
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/miro.jpg" width="560"/>
+</p>
+
 <p>During term2 of our MDEF program, each of us has experienced a range of emotions within our design process. At times we have felt hope and excitement and at times frustration and failure. Within this journey, many ideas and things have been created and many have been laid to death.
 
 We want to open up the “black box” of our design processes, and gather these moments which we consider failures and mistakes. By collecting the “dead” artifacts, the ones that did not make it alive, from individual processes, we hope to explore the connections between these objects and generate new narratives. Through these new narratives, we aim to open up an alternative understanding of failure within the design process and expose the power of the collective.
@@ -96,6 +100,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <p align="center">
 <img src="/images/cnc1.png" width="250" />
 <img src="/images/cnc3.png" width="250" />
+<img src="/images/cnc_ap.jpg" width="250" />
 </p>
 <li>Before setting up, we took different grains of sandpaper to take off the splinters.</li>
 
@@ -120,6 +125,10 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Our next step in the process was to connect the black and white wires that were extended from the object to connect it to the Makey Makey which was behind the board.
 <li> Wiring multiple objects with their recording and pin was honestly a task to avoid tangling of wires. We stripped the wires off to roll all the ground wires together and then clipped it.<br>
 <h4>Connecting the Objects</h4>
+<p align="center">
+  <img src="/images/wires1.jpg" width="250" />
+  <img src="/images/wires2.jpg" width="250" />
+</p>
 
 <h4>Testing</h4>
 
