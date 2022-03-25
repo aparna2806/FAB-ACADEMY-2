@@ -61,7 +61,7 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Makey Makey </li> <br>
 
 <p> Softwares: </p>
-<li>Rhino 7 </li> 
+<li>Rhino 7 </li>
 <li>Sampler MM App </li>
 <br>
 
@@ -88,6 +88,10 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 </li>
 <li>During the process we also learnt that the depth the CNC can cut in is in proportion the diameter of the mill. (for example the diameter was 6mm, so the maximum depth the wood would be cut in one go will be approx 3mm)
 </li>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/rhinoj.jpg" width="350"/>
+</p>
+
 <li>While preparing the file for g-code, we made it into two layers. One for screws and then the other layer had pocketing and cut together in the required order
 </li>
 <li>Feed and Speed parameters: RPM: 21000, Feed Rate: 3800
