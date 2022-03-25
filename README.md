@@ -61,8 +61,9 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
 <li> Makey Makey </li> <br>
 
 <p> Softwares: </p>
-<li> Ableton Live </li>
-<li> Rhino 7 </li> <br>
+<li>Rhino 7 </li> 
+<li>Sampler MM App </li>
+<br>
 
 <h3> Iteration Process: </h3>
 <li> Images of Cardboard Prototype </li>
@@ -128,10 +129,6 @@ Link to our miro board: (https://miro.com/app/board/uXjVOErRQPQ=/)
   <img src="/images/wires1.jpg" width="250" />
   <img src="/images/wires2.jpg" width="250" />
 </p>
-
-<h4>Testing</h4>
-
-
 
 <h3> Reflection </h3>
 We gathered our learnings from the first Micro Challenge and planned to start making early and not overthinking from the beginining. We quickly agreed on foundational decisions about the project and start making from the second day.
