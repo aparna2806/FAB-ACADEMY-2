@@ -1,4 +1,4 @@
-# FAB-ACADEMY-2
+# FAB-CHALLENGE-2
 Welcome to our group documentation of fabacademy micro challenge 2 ;)
 
 <h3> Markdown Layout: </h3>
