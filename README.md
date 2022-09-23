@@ -5,7 +5,7 @@ Welcome to our group documentation of fabacademy micro challenge 2 ;)
 <h4> (https://www.markdownguide.org/basic-syntax/#images-1) </h4>
 
 <h3> Group Members:</h3>
-Angel, Aparna, Jose
+Angel, Aparna, Jose, Jeremy
 
 <h3> Project Description: Biography of Dead Objects </h3>
 <p align="center">
@@ -160,3 +160,4 @@ We thought the same platforms can expand and be integrated with different commun
 <li> Angel: (https://miro.com/app/board/uXjVOErRQPQ=/) </li>
 <li> Aparna: (https://miro.com/app/board/uXjVOErRQPQ=/)</li>
 <li> Jose: (https://miro.com/app/board/uXjVOErRQPQ=/) </li>
+<li> Jeremy: (https://publish.obsidian.md/jeremyparadie/%F0%9F%8C%90+Website/MDEF/MDEF+Academy/Micro+Challenge+2) </li>
