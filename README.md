@@ -157,7 +157,7 @@ We thought the same platforms can expand and be integrated with different commun
 <li> Electronic Documentation of using Makey Makey </li>
 
 <h3> Links to our personal posts </h3>
-<li> Angel: (https://miro.com/app/board/uXjVOErRQPQ=/) </li>
-<li> Aparna: (https://miro.com/app/board/uXjVOErRQPQ=/)</li>
-<li> Jose: (https://miro.com/app/board/uXjVOErRQPQ=/) </li>
-<li> Jeremy: (https://publish.obsidian.md/jeremyparadie/%F0%9F%8C%90+Website/MDEF/MDEF+Academy/Micro+Challenge+2) </li>
+- [Angel](https://angel-cho.github.io/mdef22//fabacademy/challenge2.html)
+- [Aparna](https://understood-lint-c6a.notion.site/Challenge-2-Reflection-78a93d99c65b47c68c796aff3195b7b5)
+- [Jose](https://jose-hirmas.github.io/mdefportafolio/fab%20academy/Challenge%202/)
+- [Jeremy](https://publish.obsidian.md/jeremyparadie/%F0%9F%8C%90+Website/MDEF/MDEF+Academy/Micro+Challenge+2)
