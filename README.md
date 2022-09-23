@@ -157,6 +157,8 @@ We thought the same platforms can expand and be integrated with different commun
 <li> Electronic Documentation of using Makey Makey </li>
 
 <h3> Links to our personal posts </h3>
+
+
 - [Angel](https://angel-cho.github.io/mdef22//fabacademy/challenge2.html)
 - [Aparna](https://understood-lint-c6a.notion.site/Challenge-2-Reflection-78a93d99c65b47c68c796aff3195b7b5)
 - [Jose](https://jose-hirmas.github.io/mdefportafolio/fab%20academy/Challenge%202/)
